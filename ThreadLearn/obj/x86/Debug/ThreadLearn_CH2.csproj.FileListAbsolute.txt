@@ -1,0 +1,6 @@
+C:\Users\abel\Documents\Visual Studio 2010\Projects\ThreadLearn\ThreadLearn\bin\Debug\ThreadLearn.pdb
+C:\Users\abel\Documents\Visual Studio 2010\Projects\ThreadLearn\ThreadLearn\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\abel\Documents\Visual Studio 2010\Projects\ThreadLearn\ThreadLearn\obj\x86\Debug\ThreadLearn.pdb
+C:\Users\abel\Documents\Visual Studio 2010\Projects\ThreadLearn\ThreadLearn\bin\Debug\ThreadLearn.dll.config
+C:\Users\abel\Documents\Visual Studio 2010\Projects\ThreadLearn\ThreadLearn\bin\Debug\ThreadLearn.dll
+C:\Users\abel\Documents\Visual Studio 2010\Projects\ThreadLearn\ThreadLearn\obj\x86\Debug\ThreadLearn.dll

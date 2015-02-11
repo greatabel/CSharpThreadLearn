@@ -1,0 +1,5 @@
+C:\Users\abel\Documents\Visual Studio 2010\Projects\ThreadLearn\Static_CH3\bin\Debug\Static_CH3.exe
+C:\Users\abel\Documents\Visual Studio 2010\Projects\ThreadLearn\Static_CH3\bin\Debug\Static_CH3.pdb
+C:\Users\abel\Documents\Visual Studio 2010\Projects\ThreadLearn\Static_CH3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\abel\Documents\Visual Studio 2010\Projects\ThreadLearn\Static_CH3\obj\x86\Debug\Static_CH3.exe
+C:\Users\abel\Documents\Visual Studio 2010\Projects\ThreadLearn\Static_CH3\obj\x86\Debug\Static_CH3.pdb

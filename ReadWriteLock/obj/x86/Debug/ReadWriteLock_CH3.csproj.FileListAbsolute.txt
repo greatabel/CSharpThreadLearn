@@ -1,0 +1,5 @@
+C:\Users\abel\Documents\Visual Studio 2010\Projects\ThreadLearn\ReadWriteLock\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\abel\Documents\Visual Studio 2010\Projects\ThreadLearn\ReadWriteLock\bin\Debug\ReadWriteLock.exe
+C:\Users\abel\Documents\Visual Studio 2010\Projects\ThreadLearn\ReadWriteLock\bin\Debug\ReadWriteLock.pdb
+C:\Users\abel\Documents\Visual Studio 2010\Projects\ThreadLearn\ReadWriteLock\obj\x86\Debug\ReadWriteLock.exe
+C:\Users\abel\Documents\Visual Studio 2010\Projects\ThreadLearn\ReadWriteLock\obj\x86\Debug\ReadWriteLock.pdb

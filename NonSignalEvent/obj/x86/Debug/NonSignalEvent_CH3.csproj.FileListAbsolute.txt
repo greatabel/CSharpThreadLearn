@@ -1,0 +1,5 @@
+C:\Users\abel\Documents\Visual Studio 2010\Projects\ThreadLearn\NonSignalEvent\bin\Debug\NonSignalEvent.exe
+C:\Users\abel\Documents\Visual Studio 2010\Projects\ThreadLearn\NonSignalEvent\bin\Debug\NonSignalEvent.pdb
+C:\Users\abel\Documents\Visual Studio 2010\Projects\ThreadLearn\NonSignalEvent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\abel\Documents\Visual Studio 2010\Projects\ThreadLearn\NonSignalEvent\obj\x86\Debug\NonSignalEvent.exe
+C:\Users\abel\Documents\Visual Studio 2010\Projects\ThreadLearn\NonSignalEvent\obj\x86\Debug\NonSignalEvent.pdb

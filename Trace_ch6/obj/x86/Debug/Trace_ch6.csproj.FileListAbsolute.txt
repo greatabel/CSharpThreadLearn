@@ -1,0 +1,6 @@
+C:\Users\abel\Documents\Visual Studio 2010\Projects\ThreadLearn\Trace_ch6\bin\Debug\Trace_ch6.exe
+C:\Users\abel\Documents\Visual Studio 2010\Projects\ThreadLearn\Trace_ch6\bin\Debug\Trace_ch6.pdb
+C:\Users\abel\Documents\Visual Studio 2010\Projects\ThreadLearn\Trace_ch6\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\abel\Documents\Visual Studio 2010\Projects\ThreadLearn\Trace_ch6\obj\x86\Debug\Trace_ch6.exe
+C:\Users\abel\Documents\Visual Studio 2010\Projects\ThreadLearn\Trace_ch6\obj\x86\Debug\Trace_ch6.pdb
+C:\Users\abel\Documents\Visual Studio 2010\Projects\ThreadLearn\Trace_ch6\bin\Debug\Trace_ch6.exe.config

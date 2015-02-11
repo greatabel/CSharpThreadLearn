@@ -1,0 +1,5 @@
+C:\Users\abel\Documents\Visual Studio 2010\Projects\ThreadLearn\Mutex_CH3\bin\Debug\Mutex_CH3.exe
+C:\Users\abel\Documents\Visual Studio 2010\Projects\ThreadLearn\Mutex_CH3\bin\Debug\Mutex_CH3.pdb
+C:\Users\abel\Documents\Visual Studio 2010\Projects\ThreadLearn\Mutex_CH3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\abel\Documents\Visual Studio 2010\Projects\ThreadLearn\Mutex_CH3\obj\x86\Debug\Mutex_CH3.exe
+C:\Users\abel\Documents\Visual Studio 2010\Projects\ThreadLearn\Mutex_CH3\obj\x86\Debug\Mutex_CH3.pdb

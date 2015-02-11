@@ -1,0 +1,9 @@
+C:\Users\abel\Documents\Visual Studio 2010\Projects\ThreadLearn\PrimeNumber\bin\Debug\PrimeNumber.exe
+C:\Users\abel\Documents\Visual Studio 2010\Projects\ThreadLearn\PrimeNumber\bin\Debug\PrimeNumber.pdb
+C:\Users\abel\Documents\Visual Studio 2010\Projects\ThreadLearn\PrimeNumber\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\abel\Documents\Visual Studio 2010\Projects\ThreadLearn\PrimeNumber\obj\x86\Debug\PrimeNumber.Form1.resources
+C:\Users\abel\Documents\Visual Studio 2010\Projects\ThreadLearn\PrimeNumber\obj\x86\Debug\PrimeNumber.Properties.Resources.resources
+C:\Users\abel\Documents\Visual Studio 2010\Projects\ThreadLearn\PrimeNumber\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\abel\Documents\Visual Studio 2010\Projects\ThreadLearn\PrimeNumber\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\abel\Documents\Visual Studio 2010\Projects\ThreadLearn\PrimeNumber\obj\x86\Debug\PrimeNumber.exe
+C:\Users\abel\Documents\Visual Studio 2010\Projects\ThreadLearn\PrimeNumber\obj\x86\Debug\PrimeNumber.pdb

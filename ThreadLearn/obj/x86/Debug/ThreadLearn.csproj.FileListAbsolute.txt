@@ -1,0 +1,5 @@
+c:\users\abel\documents\visual studio 2010\Projects\ThreadLearn\ThreadLearn\bin\Debug\ThreadLearn.exe
+c:\users\abel\documents\visual studio 2010\Projects\ThreadLearn\ThreadLearn\bin\Debug\ThreadLearn.pdb
+c:\users\abel\documents\visual studio 2010\Projects\ThreadLearn\ThreadLearn\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\abel\documents\visual studio 2010\Projects\ThreadLearn\ThreadLearn\obj\x86\Debug\ThreadLearn.exe
+c:\users\abel\documents\visual studio 2010\Projects\ThreadLearn\ThreadLearn\obj\x86\Debug\ThreadLearn.pdb

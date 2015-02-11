@@ -1,0 +1,5 @@
+C:\Users\abel\Documents\Visual Studio 2010\Projects\ThreadLearn\IBookCollection\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\abel\Documents\Visual Studio 2010\Projects\ThreadLearn\IBookCollection\bin\Debug\IBookCollection.exe
+C:\Users\abel\Documents\Visual Studio 2010\Projects\ThreadLearn\IBookCollection\bin\Debug\IBookCollection.pdb
+C:\Users\abel\Documents\Visual Studio 2010\Projects\ThreadLearn\IBookCollection\obj\x86\Debug\IBookCollection.exe
+C:\Users\abel\Documents\Visual Studio 2010\Projects\ThreadLearn\IBookCollection\obj\x86\Debug\IBookCollection.pdb
