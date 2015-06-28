@@ -1,0 +1,5 @@
+c:\users\administrator\documents\visual studio 2010\Projects\DS_Algorithm\DS_Algorithm\bin\Debug\DS_Algorithm.exe
+c:\users\administrator\documents\visual studio 2010\Projects\DS_Algorithm\DS_Algorithm\bin\Debug\DS_Algorithm.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\DS_Algorithm\DS_Algorithm\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2010\Projects\DS_Algorithm\DS_Algorithm\obj\x86\Debug\DS_Algorithm.exe
+c:\users\administrator\documents\visual studio 2010\Projects\DS_Algorithm\DS_Algorithm\obj\x86\Debug\DS_Algorithm.pdb
