@@ -1,7 +1,0 @@
-<Modules>
-  <Module PersistentId="3A251274-5441-4FC6-AFE7-D8731B7CDAA5" ModuleId="IBookCollection_CH3" />
-  <Module PersistentId="99767805-9B82-4C69-87EF-6C79DEDBE055" ModuleId="Trace_ch6" />
-  <Module PersistentId="39CB741B-0721-4ACB-AD6B-C7E28A44FBC6" ModuleId="Static_CH3" />
-  <Module PersistentId="F5B1B9B2-40CF-4CBA-BF76-BA22D6E14579" ModuleId="ThreadLearn_CH2" />
-  <Module PersistentId="ADA5A1B0-3C0D-4B26-A465-F1C8B19A7AC3" ModuleId="ObjectPool_CH3" />
-</Modules>
