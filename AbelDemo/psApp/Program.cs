@@ -67,7 +67,7 @@ namespace psApp
             Console.WriteLine("输入姓名:");
             string name = Console.ReadLine();
 
-            Console.WriteLine("输入部门(运货部门/管理部门):");
+            Console.WriteLine("输入部门(进货部门/管理部门):");
             string department = Console.ReadLine();
             string password = "";
             do
@@ -89,9 +89,9 @@ namespace psApp
             // Console.WriteLine("输入密码:");
             // string password = Console.ReadLine();
 
-            if (department == "运货部门" )
+            if (department == "进货部门" )
             {
-                Console.WriteLine("你拥有[运货部门]权限");
+                Console.WriteLine("你拥有[进货部门]权限");
                 GoodAdmin good_admin = new GoodAdmin(department, password);
                 good_admin.Name = name;
                 Console.WriteLine("Hello World {0} {1} {2}", 
@@ -101,12 +101,21 @@ namespace psApp
             if (department == "管理部门")
             {
                 Console.WriteLine("你拥有[管理部门]权限");
+                FinanceAdmin finance_admin = new FinanceAdmin(department, password);
+                finance_admin.Name = name;
+                Console.WriteLine("Hello World {0} {1} {2}", 
+                    finance_admin.Name,finance_admin.department, finance_admin.password);
+            }
+            if (department != "进货部门" &&  department != "管理部门")
+            {
+                Console.WriteLine("你不属于进货部门或者管理部门!");
             }
 
 
             // Console.WriteLine("Hello World {0} {1} {2}", name,department, password);
 
             Administrator admin = new Administrator(name);
+            System.Threading.Thread.Sleep(3000); 
 
 
         }
